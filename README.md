@@ -1,4 +1,4 @@
-# MySQL Database Connector for Hotel Management System
+# Conexión Node.js con MySQL
 
 Este proyecto es un script de Node.js que permite conectarse a una base de datos MySQL y consultar información de las tablas.
 
