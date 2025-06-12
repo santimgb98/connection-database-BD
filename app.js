@@ -1,5 +1,7 @@
-const mysql =require('mysql2/promise');
+const mysql = require('mysql2/promise');
+const configDB = require('./config.js')
 const prompt = require('prompt-sync')();
+
 let nombre_tabla = "";
 const tablas = [
     'cliente', 'clientes_preferentes', 'empleado', 'empresa',
